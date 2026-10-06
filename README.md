@@ -38,6 +38,12 @@ I am currently pursuing a Bachelor's Degree in Computer Science and Software Eng
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
+<div align="center">
+  <img src="https://github-stats-xi-six.vercel.app/api/stats?user=m4guii&theme=glass" alt="GitHub Stats" />
+</div>
+<div align="center">
+  <img src="https://github-stats-xi-six.vercel.app/api/top-repos?user=m4guii&theme=glass" alt="Top Repositories" />
+</div>
 
 <!-- ## 📈 My Contributions
 
