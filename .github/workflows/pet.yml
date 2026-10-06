@@ -1,4 +1,4 @@
-name: My YourTomo cat
+name: Bubbles
 on:
   schedule:
     - cron: '23 */6 * * *'
