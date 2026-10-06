@@ -42,7 +42,6 @@ I am currently pursuing a Bachelor's Degree in Computer Science and Software Eng
 
 <div align="left">
   <img src="https://github-stats-xi-six.vercel.app/api/stats?user=m4guii&theme=glass" alt="GitHub Stats" />
-  <img src="https://github-stats-xi-six.vercel.app/api/top-repos?user=m4guii&theme=glass" alt="Top Repositories" />
 </div>
 
 <picture>
