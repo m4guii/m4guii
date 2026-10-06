@@ -50,6 +50,11 @@ I am currently pursuing a Bachelor's Degree in Computer Science and Software Eng
   <img alt="my github pet" src="https://raw.githubusercontent.com/m4guii/m4guii/main/dist/pet.svg" width="100%">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4guii/m4guii/main/dist/isocat-light.svg">
+  <img alt="isometric contribution city" src="https://raw.githubusercontent.com/m4guii/m4guii/main/dist/isocat.svg" width="100%">
+</picture>
+
 <!-- ## 📈 My Contributions
 
 <p align="center">
