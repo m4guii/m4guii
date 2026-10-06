@@ -5,9 +5,9 @@
 ## 🧑🏻‍💻 About Me
 I am currently pursuing a Bachelor's Degree in Computer Science and Software Engineering, at the University of Lisbon - Instituto Superior Técnico. I am passionate about coding and always eager to learn a new things. My journey in tech is driven by a love for problem-solving and creating innovative solutions.
 
-## 🚀 My Skills
+## Skills
 
-### Programming Languages
+#### Programming Languages:
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -33,7 +33,7 @@ I am currently pursuing a Bachelor's Degree in Computer Science and Software Eng
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>-->
 
-### Tools
+#### Tools:
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
