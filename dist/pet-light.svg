@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="894" height="190" viewBox="0 0 894 190" role="img" aria-label="github pet: sleeping">
+<title>github pet - sleeping</title>
+<rect width="894" height="190" fill="#ffffff"/>
+<rect width="894" height="158" fill="#0d1117" opacity="0.12"/>
+<rect x="33" y="16" width="9" height="3" fill="#b8860b"/>
+<rect x="30" y="19" width="12" height="3" fill="#b8860b"/>
+<rect x="27" y="22" width="9" height="3" fill="#b8860b"/>
+<rect x="27" y="25" width="9" height="3" fill="#b8860b"/>
+<rect x="27" y="28" width="9" height="3" fill="#b8860b"/>
+<rect x="30" y="31" width="12" height="3" fill="#b8860b"/>
+<rect x="33" y="34" width="9" height="3" fill="#b8860b"/>
+<rect x="120" y="72" width="3" height="3" fill="#57606a"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" begin="0s" repeatCount="indefinite"/></rect>
+<rect x="260" y="88" width="3" height="3" fill="#57606a"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" begin="0.7s" repeatCount="indefinite"/></rect>
+<rect x="400" y="70" width="3" height="3" fill="#57606a"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" begin="1.3s" repeatCount="indefinite"/></rect>
+<rect x="520" y="86" width="3" height="3" fill="#57606a"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" begin="0.4s" repeatCount="indefinite"/></rect>
+<rect x="700" y="72" width="3" height="3" fill="#57606a"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" begin="1.7s" repeatCount="indefinite"/></rect>
+<rect x="820" y="90" width="3" height="3" fill="#57606a"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" begin="1s" repeatCount="indefinite"/></rect>
+<line x1="0" y1="158" x2="894" y2="158" stroke="#d0d7de" stroke-width="2" stroke-dasharray="8 8"/>
+<rect x="162" y="137" width="3" height="3" fill="#1a7f37"/>
+<rect x="156" y="140" width="15" height="3" fill="#d97706"/>
+<rect x="153" y="143" width="21" height="3" fill="#d97706"/>
+<rect x="150" y="146" width="30" height="3" fill="#d97706"/>
+<rect x="150" y="149" width="30" height="3" fill="#d97706"/>
+<rect x="153" y="152" width="21" height="3" fill="#d97706"/>
+<rect x="156" y="155" width="15" height="3" fill="#d97706"/>
+<rect x="120" y="80" width="6" height="6" fill="#1f2328"/>
+<rect x="150" y="80" width="6" height="6" fill="#1f2328"/>
+<rect x="120" y="86" width="12" height="6" fill="#1f2328"/>
+<rect x="144" y="86" width="12" height="6" fill="#1f2328"/>
+<rect x="114" y="92" width="48" height="6" fill="#1f2328"/>
+<rect x="108" y="98" width="60" height="6" fill="#1f2328"/>
+<rect x="102" y="104" width="72" height="6" fill="#1f2328"/>
+<rect x="102" y="110" width="72" height="6" fill="#1f2328"/>
+<rect x="102" y="116" width="84" height="6" fill="#1f2328"/>
+<rect x="102" y="122" width="84" height="6" fill="#1f2328"/>
+<rect x="102" y="128" width="84" height="6" fill="#1f2328"/>
+<rect x="108" y="134" width="72" height="6" fill="#1f2328"/>
+<rect x="114" y="140" width="60" height="6" fill="#1f2328"/>
+<rect x="132" y="110" width="6" height="6" fill="#ffffff"/>
+<rect x="138" y="110" width="6" height="6" fill="#ffffff"/>
+<rect x="162" y="110" width="6" height="6" fill="#ffffff"/>
+<rect x="168" y="110" width="6" height="6" fill="#ffffff"/>
+<text x="170" y="80" font-family="monospace" font-size="12" fill="#0969da" opacity="0">z<animateTransform attributeName="transform" type="translate" values="0 0;8 -26" dur="3s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.25;0.75;1" dur="3s" begin="0s" repeatCount="indefinite"/></text>
+<text x="184" y="80" font-family="monospace" font-size="15" fill="#0969da" opacity="0">z<animateTransform attributeName="transform" type="translate" values="0 0;8 -26" dur="3s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.25;0.75;1" dur="3s" begin="1s" repeatCount="indefinite"/></text>
+<text x="200" y="80" font-family="monospace" font-size="18" fill="#0969da" opacity="0">z<animateTransform attributeName="transform" type="translate" values="0 0;8 -26" dur="3s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.25;0.75;1" dur="3s" begin="2s" repeatCount="indefinite"/></text>
+<text x="215" y="52" font-family="monospace" font-style="italic" font-size="12" fill="#57606a">dreaming in Prolog</text>
+<text x="16" y="180" font-family="monospace" font-size="12" fill="#57606a">state: sleeping - sleeping - it is 03:56 local time right now · 3 pushes · 0 prs this week · 77 contributions this year · regenerated every 6h · github-pet by prsdx</text>
+</svg>
