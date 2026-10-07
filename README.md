@@ -1,9 +1,6 @@
 <!--Rename code.md to README.md or copy all this code paste inside your profileName/README.md-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF1493¢er=true&vCenter=true&width=435&lines=Hi%2C+I'm+m4guii)](https://git.io/typing-svg)
-
-## 🧑🏻‍💻 About Me
-I am currently pursuing a Bachelor's Degree in Computer Science and Software Engineering, at the University of Lisbon - Instituto Superior Técnico. I am passionate about coding and always eager to learn a new things. My journey in tech is driven by a love for problem-solving and creating innovative solutions.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+m4guii)](https://git.io/typing-svg)
 
 ## Skills
 
