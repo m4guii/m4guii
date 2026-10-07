@@ -4,34 +4,30 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+m4guii)](https://git.io/typing-svg)
 
 
-#### Programming Languages:
-
-<table border="0">
-  <tr>
-    <td width="60%" valign="middle" align="center">
-      <img src="https://github-stats-xi-six.vercel.app/api/stats?user=m4guii&theme=light" width="100%" alt="GitHub Stats" />
-    </td>
-  </tr>
-  <td width="40%" valign="middle">
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
-        <img src="https://img.shields.io/badge/SWI--Prolog-9.x-6B2FBF?style=flat&logo=prolog&logoColor=white" />
-        <img src="https://img.shields.io/badge/language-C%20%7C%20RISC--V%20Assembly-475569?style=flat&logo=prolog&logoColor=white" />
-      </p>
-    </td>
-</table>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4guii/m4guii/main/dist/graph.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4guii/m4guii/main/dist/graph-light.svg">
   <img alt="flat contribution graph" src="https://raw.githubusercontent.com/m4guii/m4guii/main/dist/graph.svg" width="100%">
 </picture>
+
+
+<img src="https://github-stats-xi-six.vercel.app/api/stats?user=m4guii&theme=light" width="100%" alt="GitHub Stats" />
+
+#### Programming Languages:
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/SWI--Prolog-9.x-6B2FBF?style=flat&logo=prolog&logoColor=white" />
+  <img src="https://img.shields.io/badge/language-C%20%7C%20RISC--V%20Assembly-475569?style=flat&logo=prolog&logoColor=white" />
+</p>
+
+
 
 
 <!-- ### Frameworks and Libraries
