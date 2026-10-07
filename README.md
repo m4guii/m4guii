@@ -11,23 +11,21 @@
 </picture>
 
 
-<img src="https://github-stats-xi-six.vercel.app/api/stats?user=m4guii&theme=light" width="100%" alt="GitHub Stats" />
+<img src="https://github-stats-xi-six.vercel.app/api/stats?user=m4guii&theme=light" width="80%" alt="GitHub Stats" />
 
 #### Programming Languages:
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/SWI--Prolog-9.x-6B2FBF?style=flat&logo=prolog&logoColor=white" />
-  <img src="https://img.shields.io/badge/language-C%20%7C%20RISC--V%20Assembly-475569?style=flat&logo=prolog&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/SWI--Prolog-9.x-6B2FBF?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/language-C%20%7C%20RISC--V%20Assembly-475569?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
-
-
 
 
 <!-- ### Frameworks and Libraries
