@@ -4,6 +4,7 @@
 
 ### about meee
 <div align="justify">
+
   I'm a 2nd year student pursuing a Bachelor's degree in Computer Science and Software Engineering at Instituto Superior Técnico.
   
 
