@@ -3,16 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+m4guii)](https://git.io/typing-svg)
 
 ### about meee
-<div style="text-align: justify;">
+<div align="justify">
   I'm a 2nd year student pursuing a Bachelor's degree in Computer Science and Software Engineering at Instituto Superior Técnico.
-
+  
   Currently I am still exploring the world of tech, trying to figure out what I enjoy doing or building, so that is why most of my repos / contributions are somewhat random. 
   For now, I am pursuing Full Stack Development, I am learning about Cybersecurity (with SecTT), continuously exlporing new languages / frameworks and, in the future, I plan on teaching myself something related to Quantitative Trading. 
   Nonetheless, I will keep this updated with the projects I make for the CS subjects in my course, as well as projects I do on my own.
-
+  
   There is a lot of room for growth but I hope here I can document my journey! 
 </div>
 
+PS: don't forget to pat Bubbles (the cat) 😊
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4guii/m4guii/main/dist/graph.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4guii/m4guii/main/dist/graph-light.svg">
