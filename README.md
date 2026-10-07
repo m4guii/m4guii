@@ -1,8 +1,8 @@
 <!--Rename code.md to README.md or copy all this code paste inside your profileName/README.md-->
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+m4guii)](https://git.io/typing-svg)
 
-## Skills
 
 #### Programming Languages:
 
@@ -22,7 +22,7 @@
       </p>
     </td>
     <td width="60%" valign="middle" align="center">
-      <img src="https://github-stats-xi-six.vercel.app/api/stats?user=m4guii&theme=glass" width="100%" alt="GitHub Stats" />
+      <img src="https://github-stats-xi-six.vercel.app/api/stats?user=m4guii&theme=light" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
