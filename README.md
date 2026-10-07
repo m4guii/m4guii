@@ -4,12 +4,11 @@
 
 ### about meee
 <div align="justify">
-
   I'm a 2nd year student pursuing a Bachelor's degree in Computer Science and Software Engineering at Instituto Superior Técnico.
   
 
   Currently I am still exploring the world of tech, trying to figure out what I enjoy doing or building, so that is why most of my repos / contributions are somewhat random. 
-  For now, I am pursuing Full Stack Development, I am learning about Cybersecurity (with SecTT), continuously exlporing new languages / frameworks and, in the future, I plan on teaching myself something related to Quantitative Trading. 
+  For now, I am pursuing Full Stack Development, I am learning about Cybersecurity (with SecTT), continuously exploring new languages / frameworks and, in the future, I plan on teaching myself something related to Quantitative Trading. 
   Nonetheless, I will keep this updated with the projects I make for the CS subjects in my course, as well as projects I do on my own.
   
   There is a lot of room for growth but I hope here I can document my journey! 
