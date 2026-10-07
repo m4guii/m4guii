@@ -8,7 +8,11 @@
 
 <table border="0">
   <tr>
-    <td width="40%" valign="middle">
+    <td width="60%" valign="middle" align="center">
+      <img src="https://github-stats-xi-six.vercel.app/api/stats?user=m4guii&theme=light" width="100%" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <td width="40%" valign="middle">
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
@@ -21,10 +25,6 @@
         <img src="https://img.shields.io/badge/language-C%20%7C%20RISC--V%20Assembly-475569?style=flat&logo=prolog&logoColor=white" />
       </p>
     </td>
-    <td width="60%" valign="middle" align="center">
-      <img src="https://github-stats-xi-six.vercel.app/api/stats?user=m4guii&theme=light" width="100%" alt="GitHub Stats" />
-    </td>
-  </tr>
 </table>
 
 <picture>
