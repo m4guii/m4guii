@@ -19,7 +19,7 @@ PS: don't forget to pet Bubbles (the cat) 😊
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4guii/m4guii/main/dist/graph-light.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4guii/m4guii/main/dist/graph-light.svg">
-  <img alt="flat contribution graph" src="https://raw.githubusercontent.com/m4guii/m4guii/main/dist/graph.svg" width="100%">
+  <img alt="flat contribution graph" src="https://raw.githubusercontent.com/m4guii/m4guii/main/dist/graph-light.svg" width="100%">
 </picture>
 
 
