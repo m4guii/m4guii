@@ -16,3 +16,4 @@ jobs:
         with:
           username: m4guii
           timezone-offset-minutes: "330"
+          force-state: "zoomies"
