@@ -16,5 +16,4 @@ jobs:
         with:
           username: m4guii
           timezone-offset-minutes: "330"
-        env:
-          GH_TOKEN: ${{ secrets.PET_PAT }}
+          github_token: ${{ secrets.PET_PAT }}
